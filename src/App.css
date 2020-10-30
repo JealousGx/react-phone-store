@@ -62,4 +62,17 @@ body {
 .icon {
   color: #ffffff !important;
   font-size: 24px !important;
+  transition: all 0.75s linear;
+}
+
+.git-icon:hover {
+  color: rgba(0, 0, 0, 0.396) !important;
+}
+
+.twitter-icon:hover {
+  color: rgba(1, 255, 242, 0.904) !important;
+}
+
+.in-icon:hover {
+  color: rgba(17, 0, 255, 0.726) !important;
 }
