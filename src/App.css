@@ -11,6 +11,8 @@ body {
   font-family: 'Grandstander', cursive !important;
   background: var(--mainWhite) !important;
   color: var(--mainDark) !important;
+  height: 100% !important;
+  width: 100% !important;
 }
 
 .text-title {
